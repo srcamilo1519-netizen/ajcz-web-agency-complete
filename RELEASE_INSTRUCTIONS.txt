@@ -1,0 +1,71 @@
+# INSTRUCCIONES PARA CREAR GITHUB RELEASE MANUAL
+
+## Archivo a subir:
+- Ruta: ../AJCZ-Web-Agency-Installer.zip
+- Nombre: AJCZ-Web-Agency-Installer.zip
+- Tamaño: 185.0 MB
+
+## Pasos:
+
+### 1. Ir a GitHub:
+https://github.com/srcamilo1519-netizen/ajcz.company/releases/new
+
+### 2. Configurar Release:
+- Tag: v1.0.0
+- Title: AJCZ Web Agency v1.0.0
+- Description (copiar y pegar):
+
+# AJCZ Web Agency v1.0.0
+
+## Paquete de Instalación Completo
+
+Este release contiene el instalador completo para AJCZ Web Agency.
+
+### Contenido del ZIP:
+- AJCZ-Web-Agency.exe - Aplicación principal (185 MB)
+- install.bat - Instalador automático
+- icon.ico - Icono profesional  
+- README.txt - Instrucciones completas
+
+### Instalación:
+1. Descargar AJCZ-Web-Agency-Installer.zip
+2. Descomprimir
+3. Ejecutar install.bat como administrador
+4. Listo
+
+### Características:
+- Instalación automática
+- Sin dependencias
+- Compatible con Windows 10/11
+- Portable (USB)
+
+### Soporte:
+Si tienes problemas:
+1. Ejecuta install.bat como administrador
+2. Verifica que Windows Defender no bloquee archivos
+3. Asegúrate de tener 200 MB libres en C:\
+
+---
+© 2026 AJCZ Web Agency
+
+### 3. Subir Archivo:
+- Click en "Attach binaries by dropping them here or selecting them"
+- Seleccionar: AJCZ-Web-Agency-Installer.zip
+- Esperar a que suba (puede tardar varios minutos)
+
+### 4. Publicar:
+- Click en "Publish release"
+
+## Resultado:
+Las personas podrán descargar desde:
+https://github.com/srcamilo1519-netizen/ajcz.company/releases/tag/v1.0.0
+
+## Alternativa si GitHub falla:
+Si GitHub no permite subir archivos grandes, usar:
+- Google Drive
+- Dropbox  
+- WeTransfer
+- MediaFire
+
+## Link directo al repositorio:
+https://github.com/srcamilo1519-netizen/ajcz.company
