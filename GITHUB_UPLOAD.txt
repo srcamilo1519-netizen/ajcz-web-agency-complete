@@ -1,0 +1,64 @@
+# INSTRUCCIONES PARA SUBIR A GITHUB
+
+## 📦 Repositorio Listo para Subir
+
+### 📁 Contenido del repositorio:
+```
+📁 ajcz. JOB/
+├── 📄 README.md ← Documentación completa
+├── 📄 README.txt ← Instrucciones desktop
+├── 📄 README_MOBILE.txt ← Instrucciones móviles
+├── 📄 RELEASE_INSTRUCTIONS.txt ← Instrucciones para release
+├── 📄 ajcz_animacion.html ← Versión web/móvil
+├── 📄 install.bat ← Instalador Windows
+├── 📄 .gitignore ← Configuración git
+└── 🖥️ AJCZ-Web-Agency.exe (excluido por .gitignore)
+```
+
+### 🚀 Pasos para Subir a GitHub:
+
+#### Opción 1: Crear Nuevo Repositorio
+1. **Ir a GitHub**: https://github.com/new
+2. **Repository name**: `ajcz-web-agency-complete`
+3. **Description**: `AJCZ Web Agency - Complete package with desktop and web versions`
+4. **Visibility**: Public
+5. **No agregar README, .gitignore, ni license** (ya existen)
+6. **Click en "Create repository"
+
+#### Opción 2: Subir a Repositorio Existente
+1. **Ir a tu repositorio existente**
+2. **Copiar los comandos que GitHub te da**
+
+### 📋 Comandos para Subir:
+
+```bash
+# Remplaza TU_USERNAME con tu usuario de GitHub
+cd "C:\Users\adrian\Desktop\ajcz. JOB"
+git remote add origin https://github.com/TU_USERNAME/ajcz-web-agency-complete.git
+git push -u origin main
+```
+
+### ✅ Resultado:
+- **Repositorio**: https://github.com/TU_USERNAME/ajcz-web-agency-complete
+- **Archivos subidos**: 6 archivos (sin el .exe grande)
+- **Tamaño total**: ~100 KB (ligero y rápido)
+
+### 📦 Para el .exe (194 MB):
+1. **Crear GitHub Release** manualmente
+2. **Subir AJCZ-Web-Agency.exe como asset**
+3. **Link de descarga**: https://github.com/TU_USERNAME/ajcz-web-agency-complete/releases
+
+### 🎯 Ventajas:
+- ✅ **Código fuente visible** en GitHub
+- ✅ **Documentación completa** incluida
+- ✅ **Instalador funcional** para desktop
+- ✅ **Versión web** para móviles
+- ✅ **Instrucciones claras** para usuarios
+
+### 📱 Para los Usuarios:
+1. **Desktop**: Descargar .exe del release + ejecutar install.bat
+2. **Móvil**: Abrir ajcz_animacion.html directamente
+3. **Universal**: Todo disponible en un solo repositorio
+
+---
+**¡Listo para subir a GitHub!** 🚀
