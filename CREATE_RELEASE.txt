@@ -1,0 +1,89 @@
+# INSTRUCCIONES PARA CREAR RELEASE
+
+## 🚀 PASO 1: IR A GITHUB RELEASES
+
+**Abre este enlace:**
+```
+https://github.com/srcamilo1519-netizen/ajcz-web-agency-complete/releases/new
+```
+
+## 🚀 PASO 2: CONFIGURAR RELEASE
+
+**Llena estos campos:**
+
+### Tag version:
+```
+v1.0.0
+```
+
+### Title:
+```
+AJCZ Web Agency v1.0.0
+```
+
+### Description (copia y pega esto):
+```
+# AJCZ Web Agency v1.0.0
+
+## 📦 Complete Package - Desktop & Mobile
+
+This release contains everything needed to run AJCZ Web Agency on any device.
+
+### 🖥️ Desktop Version
+- **AJCZ-Web-Agency.exe** - Main desktop application (194 MB)
+- **install.bat** - Automatic installer for Windows
+- **README.txt** - Installation instructions
+
+### 📱 Mobile/Web Version
+- **ajcz_animacion.html** - Responsive web version (27 KB)
+- **README_MOBILE.txt** - Mobile usage instructions
+
+### 🚀 Installation
+
+#### Desktop (Windows):
+1. Download AJCZ-Web-Agency.exe
+2. Run install.bat as Administrator
+3. Done ✅
+
+#### Mobile/Web:
+1. Open ajcz_animacion.html in any browser
+2. Works on all devices ✅
+
+### ✅ Features
+- ✅ Modern PyQt6 interface (Desktop)
+- ✅ 100% Responsive design (Mobile)
+- ✅ Cyberpunk themed design
+- ✅ WhatsApp integration
+- ✅ Touch-friendly navigation
+- ✅ Smooth animations
+- ✅ Works offline after download
+
+### 📋 Requirements
+- **Desktop**: Windows 10/11, 4GB RAM, 200MB disk space
+- **Mobile**: Modern web browser, internet connection (optional)
+
+---
+© 2026 AJCZ Web Agency - All rights reserved
+```
+
+## 🚀 PASO 3: SUBIR ARCHIVO
+
+1. **Click en**: "Attach binaries by dropping them here or selecting them"
+2. **Selecciona**: `C:\Users\adrian\Desktop\ajcz. JOB\AJCZ-Web-Agency.exe`
+3. **Espera**: Subida puede tardar varios minutos
+4. **Click en**: "Publish release"
+
+## ✅ RESULTADO FINAL
+
+**Link de descarga:**
+```
+https://github.com/srcamilo1519-netizen/ajcz-web-agency-complete/releases/tag/v1.0.0
+```
+
+**Para los usuarios:**
+- **Desktop**: Descargar .exe del release
+- **Mobile**: Abrir ajcz_animacion.html desde el repo
+- **Universal**: Todo en un solo lugar
+
+---
+**¡Listo para compartir con el mundo!** 🌍
